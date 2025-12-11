@@ -1,1 +1,1 @@
-# Curs_PythonI_TSchool
+# Curs_Python_ITSchool
