@@ -70,9 +70,34 @@
 
 # 6. Calculeaza suma numerelor de la 1 la n.
 
+
+#PRIMA VARIANTA:
+# n = int(input('introdu un numar: '))
+# suma = n * (n + 1) // 2 
+# print(suma)
+
+# #A DOUA VARIANTA:
+# n = int(input('introdu un numar" '))
+# suma = 0 
+# for i in range(1, n+ 1):
+#     suma += i
+# print(suma)    
+
 # 7. Afisaza toate numerele pare de la 1 la n. 
 
+# n = int(input('introdu n: '))
+# for i in range(1, n + 1):
+#     if i % 2 == 0:
+#         print(i)
+
+
 # 8. Afisaza tabla inmultirii cu un numar dat. 
+
+n = int(input("introdu un numar: "))
+
+for i in range(1, n + 1):
+    print(f"{n} x {i} =  {n * i}")
+
 
 # 9. Citeste un numar si afisaza cate cifre are. 
 
