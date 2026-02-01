@@ -1,4 +1,4 @@
-# 18) Afiseaza persoanele sortate dupa varsta, de la cea mai mica la cea mai mare. (Utilizati functia sorted pentru a rezolva acest exercitiu).
+# 18) Afiseaza persoanele sortate dupa varsta, de la cea mai mica la cea mai mare. 
 #    (Folositi functia sorted() si pentru cheia de sortare (key) accesati valorile dictionarului).
 
 dict = {'Daniel' : 26, 

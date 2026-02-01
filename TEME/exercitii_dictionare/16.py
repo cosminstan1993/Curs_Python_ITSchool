@@ -30,7 +30,6 @@ print('Persoanele cu varsta cuprinsa intre 10-20 ani: ', grupa2)
 print('Persoanele cu varsta cuprinsa intre 20-30 ani: ', grupa3) 
 print('Persoanele cu varsta cuprinsa intre 30-40 ani: ', grupa4) 
 
-# #sau
 
 
  
