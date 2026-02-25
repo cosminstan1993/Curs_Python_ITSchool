@@ -1,0 +1,14 @@
+[
+    {
+        "nume": "Eugen",
+        "prenume": "Neagoe",
+        "varsta": "56",
+        "oras": "Buftea"
+    },
+    {
+        "nume": "Stan",
+        "prenume": "Alexandru",
+        "varsta": "22",
+        "oras": "Tunari"
+    }
+]

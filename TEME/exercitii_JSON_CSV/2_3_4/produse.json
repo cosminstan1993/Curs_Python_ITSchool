@@ -1,0 +1,14 @@
+[
+    {
+        "nume": "lalele",
+        "pret": "20",
+        "cantitate": "13",
+        "pret_total": 260.0
+    },
+    {
+        "nume": "Ananas",
+        "pret": "25",
+        "cantitate": "20",
+        "pret_total": 500.0
+    }
+]

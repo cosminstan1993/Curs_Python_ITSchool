@@ -1,0 +1,7 @@
+Marian;Camataru, Nota Romana:2.0, Nota Matematica:3.0, Nota Engleza:1.0
+George;gheorghe, Nota Romana:5.0, Nota Matematica:7.0, Nota Engleza:8.0
+mariusel;florian, Nota Romana:4.0, Nota Matematica:2.0, Nota Engleza:5.0
+Marian;Lautaru, Nota Romana:4.0, Nota Matematica:10.0, Nota Engleza:4.0
+Marian;Gheorghe , Nota Romana:7.0, Nota Matematica:9.0, Nota Engleza:10.0
+Alexandru;Lascar, Nota Romana:10.0, Nota Matematica:9.0, Nota Engleza:10.0
+Florin;Matei, Nota Romana:9.0, Nota Matematica:1.0, Nota Engleza:4.0

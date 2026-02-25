@@ -1,0 +1,17 @@
+[
+    {
+        "nume": "Ion Popescu",
+        "varsta": 30,
+        "copii": 2
+    },
+    {
+        "nume": "Ana Ionescu",
+        "varsta": 25,
+        "copii": 3
+    },
+    {
+        "nume": "Mihai Georgescu",
+        "varsta": 40,
+        "copii": 4
+    }
+]
